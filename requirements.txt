@@ -1,0 +1,6 @@
+pip
+virtualenv
+requests
+xlrd
+xlwt
+xlutils
